@@ -1,5 +1,7 @@
 # oneTOmanyDATAJPA
-### Here oneTOmany HAS-A mapping onebook can have many authors
-### ONE BOOK CAN HAVE MANY AUTHORS
-### PARENT.CLASS IS BOOK
-### CHILD.CLASS IS AUTHOR*/
+<pre>
+&rarr; Here oneTOmany HAS-A mapping onebook can have many authors
+&rarr; ONE BOOK CAN HAVE MANY AUTHORS
+&rarr; PARENT.CLASS IS BOOK
+&rarr; CHILD.CLASS IS AUTHOR*/
+</pre>
